@@ -1,2 +1,2 @@
 # itera
-Repor for Itera
+Repo for Itera
