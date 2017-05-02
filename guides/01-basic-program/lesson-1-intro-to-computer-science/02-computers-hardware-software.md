@@ -37,7 +37,6 @@ Software rules the hardware (the physical machine).  It is the software that det
 
 As a definition, software consists of carefully-organized instructions and code written by programmers in any of various special computer languages. Software is divided commonly into two main categories: (1) System software: controls the basic functions of a computer and comes usually preinstalled with the machine and (2) Application software: handles multitudes of common and specialized tasks a user wants to perform, such as accounting, communicating, data processing, word processing.
 
-Read more: http://www.businessdictionary.com/definition/software.html
 
 ## What are the differences between hardware and software?
 
