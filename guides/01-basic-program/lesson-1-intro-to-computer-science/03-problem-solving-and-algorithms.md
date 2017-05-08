@@ -31,7 +31,7 @@ _Analysis of algorithms is an important part of computer science_
 
 Some problems are too complex or ill-defined to lend themselves to analysis. In such cases, computer scientists rely on experimentation; they actually implement systems and then study the resulting behavior. Even when theoretical analysis is done, experimentation is often needed in order to verify and refine the analysis. For most problems, the bottom line is whether a working, reliable system can be built. Often we require empirical testing of the system to determine that this bottom-line has been met. As you begin writing your own programs, you will get plenty of opportunities to observe your solutions in action.
 
-##References
+## References
 
 * [Utah School of Computing - Problem Solving ](http://www.cs.utah.edu/~germain/PPS/Topics/problem_solving.html)
 * [ITS Education Asia - The skills of problem Solving](http://www.itseducation.asia/the-skills-of-problem-solving.htm)
