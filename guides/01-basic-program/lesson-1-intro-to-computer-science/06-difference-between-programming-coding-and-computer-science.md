@@ -6,3 +6,6 @@ Computer programming is a challenging activity. Good programming requires an abi
 
 
 Coding, or programming, is a way of writing instructions for computers that bridges the gap between how humans like to express themselves and how computers actually work.
+
+
+## References

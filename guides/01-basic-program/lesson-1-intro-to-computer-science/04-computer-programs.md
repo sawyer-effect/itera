@@ -1,1 +1,0 @@
-# :symbols: Computer programs
